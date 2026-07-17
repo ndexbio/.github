@@ -14,4 +14,5 @@ NDEx is an open-source platform for sharing, storing, and publishing biological 
 - [REST API Documentation](http://home.ndexbio.org/ndex-developers/)
 - [Python Client (ndex2)](https://github.com/ndexbio/ndex2-client)
 - [Python Client Documentation](https://ndex2.readthedocs.io/)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
 - [Contributing](CONTRIBUTING.md)
